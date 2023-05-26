@@ -15,17 +15,17 @@ The dataset used in this notebook is obtained from Yahoo Finance. To download th
 ```
 pip install pandas matplotlib numpy tensorflow
 ```
-2. Open the `stock_forecasting_lstm.ipynb` file in your preferred Jupyter Notebook.
+2. Open the `Stock_forecasting_LSTM.ipynb` file in your preferred Jupyter Notebook.
 
 3. Run the notebook cells sequentially to train the LSTM model and make predictions.
 
 ## Notebooks Files
 
-- `stock_forecasting_lstm.py`: The main notebook file that contains the code for loading the dataset, preprocessing the data, building the LSTM model, training the model, and making predictions.
+- `Stock_forecasting_LSTM.ipynb`: The main notebook file that contains the code for loading the dataset, preprocessing the data, building the LSTM model, training the model, and making predictions.
 
 ## Usage
 
-1. Open the notebook file `stock_forecasting_lstm.py`.
+1. Open the notebook file `Stock_forecasting_LSTM.ipynb`.
 
 2. Modify the parameters such as the time period, window size, and model architecture according to your needs.
 
