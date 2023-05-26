@@ -15,7 +15,7 @@ The dataset used in this notebook is obtained from Yahoo Finance. To download th
 ```
 pip install pandas matplotlib numpy tensorflow
 ```
-2. Open the `stock_forecasting_lstm.py` file in your preferred Python environment or Jupyter Notebook.
+2. Open the `stock_forecasting_lstm.ipynb` file in your preferred Jupyter Notebook.
 
 3. Run the notebook cells sequentially to train the LSTM model and make predictions.
 
@@ -37,7 +37,7 @@ pip install pandas matplotlib numpy tensorflow
 
 The notebook provides visualizations of the model's predictions against the actual stock prices for different time periods. The training predictions, validation predictions, testing predictions, and recursive predictions are plotted to evaluate the performance of the LSTM model.
 
-[Google Colab](https://colab.research.google.com/drive/1sTlRq5xTpv96r7NZx9WaaNjqUvG0B7U1).
+[Google Colab Notebook](https://colab.research.google.com/drive/1sTlRq5xTpv96r7NZx9WaaNjqUvG0B7U1).
 
 
 
