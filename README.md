@@ -1,4 +1,4 @@
-# Stock Forecasting LSTM
+# Microsoft-Stock Forecasting LSTM
 
 This notebook demonstrates how to use LSTM (Long Short-Term Memory) neural networks for stock price forecasting. It utilizes historical stock price data to train an LSTM model and make predictions on future stock prices.
 
